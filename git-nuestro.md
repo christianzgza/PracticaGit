@@ -1,3 +1,5 @@
+Cuando no compile el código, reza conmigo
+
 *Git* nuestro que estas en los repos
 
 Comprimidos sean tus *commits*
